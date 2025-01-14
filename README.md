@@ -31,7 +31,7 @@ API 接口分析：分析和与受保护的API进行交互（例如酷航、基�
 
 ![4abe4777ca23fc80fe883a5277e3e25](https://github.com/user-attachments/assets/65ea322b-5db2-421a-9955-d0cdde360847)
 
-tg：https://t.me/Chch0hchC
+TG：https://t.me/Chch0hchC
 
 
 lastest has solved
