@@ -1,23 +1,16 @@
 # API-for-reese84-hcaptcha
 
-2025-02-07  THE LASTEST API FOR HCAPTCHA/HC. Discord,steam,epicgames,roitgames and so on  PASSED!!!!!!!!!!!!!!!!!!!!!!!!!!!
-2025-02-07  THE LASTEST API FOR HCAPTCHA/HC. Discord,steam,epicgames,roitgames and so on  PASSED!!!!!!!!!!!!!!!!!!!!!!!!!!!
-2025-02-07  THE LASTEST API FOR HCAPTCHA/HC. Discord,steam,epicgames,roitgames and so on  PASSED!!!!!!!!!!!!!!!!!!!!!!!!!!!
-2025-02-07  THE LASTEST API FOR HCAPTCHA/HC. Discord,steam,epicgames,roitgames and so on  PASSED!!!!!!!!!!!!!!!!!!!!!!!!!!!
-2025-02-07  THE LASTEST API FOR HCAPTCHA/HC. Discord,steam,epicgames,roitgames and so on  PASSED!!!!!!!!!!!!!!!!!!!!!!!!!!!
-2025-02-07  THE LASTEST API FOR HCAPTCHA/HC. Discord,steam,epicgames,roitgames and so on  PASSED!!!!!!!!!!!!!!!!!!!!!!!!!!!
-2025-02-07  THE LASTEST API FOR HCAPTCHA/HC. Discord,steam,epicgames,roitgames and so on  PASSED!!!!!!!!!!!!!!!!!!!!!!!!!!!
-2025-02-07  THE LASTEST API FOR HCAPTCHA/HC. Discord,steam,epicgames,roitgames and so on  PASSED!!!!!!!!!!!!!!!!!!!!!!!!!!!
-2025-02-07  THE LASTEST API FOR HCAPTCHA/HC. Discord,steam,epicgames,roitgames and so on  PASSED!!!!!!!!!!!!!!!!!!!!!!!!!!!
-2025-02-07  THE LASTEST API FOR HCAPTCHA/HC. Discord,steam,epicgames,roitgames and so on  PASSED!!!!!!!!!!!!!!!!!!!!!!!!!!!
-2025-02-07  THE LASTEST API FOR HCAPTCHA/HC. Discord,steam,epicgames,roitgames and so on  PASSED!!!!!!!!!!!!!!!!!!!!!!!!!!!
-2025-02-07  THE LASTEST API FOR HCAPTCHA/HC. Discord,steam,epicgames,roitgames and so on  PASSED!!!!!!!!!!!!!!!!!!!!!!!!!!!
-2025-02-07  THE LASTEST API FOR HCAPTCHA/HC. Discord,steam,epicgames,roitgames and so on  PASSED!!!!!!!!!!!!!!!!!!!!!!!!!!!
+2025-03-29  THE LASTEST API FOR HCAPTCHA/HC. Discord,steam,epicgames,roitgames and so on  PASSED!!!!!!!!!!!!!!!!!!!!!!!!!!!
 
 
+hCaptcha for steam.
+0.015/request.
 
 
 Specializing in JavaScript reverse engineering, hCaptcha/Reese84 bypass, API analysis, and custom automation tool development for security research.
+
+
+
 
 
 JavaScript Reverse Engineering & Custom Tools
