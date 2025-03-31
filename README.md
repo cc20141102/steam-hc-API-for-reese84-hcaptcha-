@@ -4,7 +4,7 @@
 
 
 hCaptcha for steam.
-0.015/request.
+at least 0.003/request.
 
 
 Specializing in JavaScript reverse engineering, hCaptcha/Reese84 bypass, API analysis, and custom automation tool development for security research.
