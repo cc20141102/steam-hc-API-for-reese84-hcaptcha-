@@ -4,7 +4,7 @@
 
 
 hCaptcha for steam.
-at least 0.003/request.
+monthly  unlimited
 
 
 Specializing in JavaScript reverse engineering, hCaptcha/Reese84 bypass, API analysis, and custom automation tool development for security research.
